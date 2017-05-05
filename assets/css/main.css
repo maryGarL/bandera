@@ -1,14 +1,14 @@
-.amarillo{
+#n1 .amarillo, #n2 .amarillo, #n3 .amarillo{
   background-color: yellow;
   width: 200px;
   height: 200px;
 }
-.azul{
+#n1 .azul, #n2 .azul, #n3 .azul{
   background-color: blue;
   width: 200px;
   height: 200px;
 }
-.rojo{
+#n1 .rojo, #n2 .rojo, #n3 .rojo{
   background-color: red;
   width: 200px;
   height: 200px;
