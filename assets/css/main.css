@@ -26,5 +26,7 @@ section{
   width: 200px;
   height: 200px;}
 .izquierda{
-  float: left;
+  float: left;}
+.derecha{
+float:right;
 }
