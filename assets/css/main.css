@@ -24,5 +24,7 @@ section{
 #n1 .blanco, #n2 .blanco, #n3 .blanco{
   background-color: white;
   width: 200px;
-  height: 200px;
+  height: 200px;}
+.izquierda{
+  float: left;
 }
